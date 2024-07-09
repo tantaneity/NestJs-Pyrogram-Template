@@ -1,0 +1,1 @@
+export type PartialKeys<T> = Partial<Record<keyof T, any>>

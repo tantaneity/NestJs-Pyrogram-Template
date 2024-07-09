@@ -1,0 +1,6 @@
+{
+    "exec": "python -m app",
+    "watch": ["."],
+    "ext": "py"
+  }
+  
